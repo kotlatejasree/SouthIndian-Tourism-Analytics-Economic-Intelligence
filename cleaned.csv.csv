@@ -1,0 +1,451 @@
+Year,State,City,Domestic Visitors,Foreign Visitors,Total Visitors,Revenue,Revenue Unit
+2020,Kerala,Munnar,887564.0,59273.0,946837.0,186.45,Crores
+2021,Kerala,Thiruvananthapuram,1145150.0,100038.0,1245188.0,203.17,Crores
+2017,Kerala,Kochi,2044335.0,202942.0,2247277.0,491.25,Crores
+2020,Andhra Pradesh,Vijayawada,864570.0,74534.0,939104.0,167.72,Crores
+2018,Telangana,Khammam,451184.0,45820.0,497004.0,65.56,Crores
+2019,Kerala,Kochi,2413631.0,122640.0,2536271.0,425.03,Crores
+2019,Telangana,Nizamabad,760820.0,77630.0,838450.0,129.04,Crores
+2019,Andhra Pradesh,Tirupati,719879.0,73748.0,793627.0,169.44,Crores
+2018,Kerala,Kozhikode,535993.0,56014.0,592007.0,78.77,Crores
+2019,Karnataka,Bengaluru,3039970.0,183980.0,3223950.0,451.17,Crores
+2019,Andhra Pradesh,Vijayawada,880475.0,59659.0,940134.0,127.11,Crores
+2022,Andhra Pradesh,Tirupati,748055.0,72060.0,820115.0,155.23,Crores
+2019,Tamil Nadu,Ooty,1128168.0,114835.0,1243003.0,271.68,Crores
+2017,Tamil Nadu,Coimbatore,1712780.0,123992.0,1836772.0,386.35,Crores
+2017,Andhra Pradesh,Kurnool,368847.0,20584.0,389431.0,76.49,Crores
+2021,Kerala,Munnar,1013181.0,76757.0,1089938.0,236.67,Crores
+2020,Kerala,Kochi,2512404.0,138959.0,2651363.0,554.87,Crores
+2018,Kerala,Alappuzha,653729.0,68733.0,722462.0,105.66,Crores
+2017,Telangana,Warangal,903610.0,57618.0,961228.0,155.73,Crores
+2018,Kerala,Kochi,2275514.0,204791.0,2480305.0,512.0,Crores
+2021,Tamil Nadu,Madurai,1653482.0,122330.0,1775812.0,274.59,Crores
+2022,Karnataka,Mangaluru,1233661.0,63899.0,1297560.0,243.01,Crores
+2022,Tamil Nadu,Coimbatore,2022711.0,156613.0,2179324.0,404.56,Crores
+2017,Telangana,Khammam,470667.0,27755.0,498422.0,66.19,Crores
+2019,Kerala,Thiruvananthapuram,1161718.0,123615.0,1285333.0,221.16,Crores
+2017,Tamil Nadu,Madurai,1408386.0,94669.0,1503055.0,230.49,Crores
+2020,Telangana,Hyderabad,2309755.0,207214.0,2516969.0,342.57,Crores
+2020,Andhra Pradesh,Visakhapatnam,1895713.0,206210.0,2101923.0,392.77,Crores
+2020,Tamil Nadu,Coimbatore,1905716.0,117933.0,2023649.0,394.83,Crores
+2021,Andhra Pradesh,Tirupati,742582.0,39078.0,781660.0,110.42,Crores
+2019,Karnataka,Hampi,893911.0,65081.0,958992.0,157.84,Crores
+2020,Telangana,Nizamabad,844285.0,56974.0,901259.0,167.53,Crores
+2022,Tamil Nadu,Thanjavur,1037747.0,48938.0,1086685.0,148.95,Crores
+2021,Kerala,Kozhikode,626435.0,62587.0,689022.0,136.77,Crores
+2022,Telangana,Warangal,1082637.0,50875.0,1133512.0,173.64,Crores
+2018,Telangana,Nizamabad,792297.0,52068.0,844365.0,157.33,Crores
+2021,Telangana,Khammam,564377.0,26850.0,591227.0,102.43,Crores
+2021,Telangana,Hyderabad,2229793.0,215936.0,2445729.0,386.26,Crores
+2021,Andhra Pradesh,Nellore,570603.0,41636.0,612239.0,90.64,Crores
+2022,Andhra Pradesh,Vijayawada,939397.0,101859.0,1041256.0,166.93,Crores
+2018,Tamil Nadu,Coimbatore,1771423.0,148436.0,1919859.0,307.33,Crores
+2018,Andhra Pradesh,Nellore,508431.0,24102.0,532533.0,97.81,Crores
+2019,Karnataka,Coorg,718910.0,42549.0,761459.0,164.09,Crores
+2018,Andhra Pradesh,Vijayawada,861291.0,91621.0,952912.0,164.55,Crores
+2019,Karnataka,Mysuru,1382924.0,88051.0,1470975.0,230.45,Crores
+2018,Karnataka,Mangaluru,1131453.0,60977.0,1192430.0,0.0,Crores
+2019,Tamil Nadu,Madurai,1529058.0,108755.0,1637813.0,283.65,Crores
+2019,Telangana,Hyderabad,2179699.0,129885.0,2309584.0,346.77,Crores
+2021,Telangana,Warangal,1086211.0,49699.0,1135910.0,155.07,Crores
+2022,Andhra Pradesh,Kurnool,470237.0,51614.0,521851.0,113.62,Crores
+2019,Andhra Pradesh,Nellore,541492.0,30487.0,571979.0,94.76,Crores
+2021,Karnataka,Coorg,747678.0,81465.0,829143.0,138.33,Crores
+2020,Karnataka,Mysuru,1482416.0,92438.0,1574854.0,329.27,Crores
+2020,Tamil Nadu,Ooty,1186704.0,59274.0,1245978.0,257.43,Crores
+2019,Tamil Nadu,Coimbatore,1918344.0,210760.0,2129104.0,343.99,Crores
+2017,Kerala,Kozhikode,518008.0,51248.0,569256.0,84.58,Crores
+2018,Telangana,Karimnagar,600786.0,51085.0,651871.0,98.41,Crores
+2019,Kerala,Alappuzha,645232.0,68573.0,713805.0,134.53,Crores
+2017,Telangana,Hyderabad,1826849.0,153829.0,1980678.0,301.22,Crores
+2022,Kerala,Munnar,1062482.0,85629.0,1148111.0,233.71,Crores
+2018,Tamil Nadu,Thanjavur,879168.0,53643.0,932811.0,190.03,Crores
+2017,Tamil Nadu,Ooty,1002838.0,83605.0,1086443.0,167.45,Crores
+2021,Karnataka,Mysuru,1565499.0,98253.0,1663752.0,358.67,Crores
+2020,Telangana,Karimnagar,592851.0,60263.0,653114.0,142.13,Crores
+2022,Andhra Pradesh,Visakhapatnam,1979566.0,109609.0,2089175.0,435.51,Crores
+2018,Kerala,Munnar,900434.0,95773.0,996207.0,133.04,Crores
+2022,Kerala,Kozhikode,651632.0,32780.0,684412.0,92.69,Crores
+2018,Telangana,Hyderabad,2057007.0,138008.0,2195015.0,428.53,Crores
+2020,Karnataka,Mangaluru,1218647.0,106996.0,1325643.0,273.81,Crores
+2020,Karnataka,Hampi,921384.0,83886.0,1005270.0,206.41,Crores
+2018,Andhra Pradesh,Tirupati,680501.0,67979.0,748480.0,118.8,Crores
+2022,Andhra Pradesh,Nellore,583165.0,47293.0,630458.0,122.77,Crores
+2022,Karnataka,Mysuru,1642683.0,159402.0,1802085.0,266.73,Crores
+2021,Andhra Pradesh,Vijayawada,977271.0,83148.0,1060419.0,213.87,Crores
+2021,Karnataka,Bengaluru,3119550.0,157084.0,3276634.0,626.64,Crores
+2022,Karnataka,Hampi,987577.0,46468.0,1034045.0,221.55,Crores
+2017,Karnataka,Mysuru,1329640.0,71943.0,1401583.0,291.76,Crores
+2020,Tamil Nadu,Thanjavur,967077.0,73728.0,1040805.0,190.8,Crores
+2021,Karnataka,Hampi,913317.0,79005.0,992322.0,164.51,Crores
+2020,Telangana,Khammam,551926.0,51730.0,603656.0,85.54,Crores
+2018,Karnataka,Coorg,703573.0,65147.0,768720.0,155.74,Crores
+2022,Tamil Nadu,Ooty,1241619.0,97654.0,1339273.0,184.7,Crores
+2019,Tamil Nadu,Chennai,4063953.0,322600.0,4386553.0,940.99,Crores
+2020,Telangana,Warangal,1020092.0,92860.0,1112952.0,151.43,Crores
+2017,Tamil Nadu,Thanjavur,860573.0,61627.0,922200.0,165.7,Crores
+2017,Karnataka,Bengaluru,2685880.0,172273.0,2858153.0,615.53,Crores
+2018,Andhra Pradesh,Kurnool,394399.0,20838.0,415237.0,56.86,Crores
+2020,Karnataka,Coorg,752833.0,67159.0,819992.0,152.25,Crores
+2022,Karnataka,Bengaluru,3331228.0,178642.0,3509870.0,635.56,Crores
+2021,Tamil Nadu,Ooty,1285808.0,93480.0,1379288.0,235.34,Crores
+2020,Tamil Nadu,Chennai,4088895.0,207119.0,4296014.0,716.41,Crores
+2017,Karnataka,Mangaluru,1029540.0,106192.0,1135732.0,229.4,Crores
+2018,Telangana,Warangal,907072.0,59407.0,966479.0,172.57,Crores
+2017,Andhra Pradesh,Tirupati,636443.0,35894.0,672337.0,142.74,Crores
+2021,Tamil Nadu,Thanjavur,970368.0,93798.0,1064166.0,204.78,Crores
+2021,Tamil Nadu,Coimbatore,1979563.0,0.0,1979563.0,424.89,Crores
+2019,Telangana,Warangal,1004487.0,83915.0,1088402.0,198.32,Crores
+2020,Karnataka,Bengaluru,3209052.0,216956.0,3426008.0,654.44,Crores
+2021,Kerala,Kochi,2668694.0,159980.0,2828674.0,421.98,Crores
+2022,Telangana,Nizamabad,908883.0,92195.0,1001078.0,195.66,Crores
+2022,Telangana,Khammam,561781.0,61344.0,623125.0,83.26,Crores
+2022,Karnataka,Coorg,759906.0,60932.0,820838.0,159.09,Crores
+2019,Telangana,Khammam,521753.0,50932.0,572685.0,108.22,Crores
+2018,Tamil Nadu,Ooty,1092434.0,84343.0,1176777.0,225.89,Crores
+2017,Kerala,Thiruvananthapuram,1020665.0,57319.0,1077984.0,166.56,Crores
+2020,Andhra Pradesh,Kurnool,452198.0,47743.0,499941.0,69.6,Crores
+2017,Telangana,Karimnagar,547886.0,48289.0,596175.0,127.77,Crores
+2017,Telangana,Nizamabad,751878.0,48355.0,800233.0,144.82,Crores
+2022,Tamil Nadu,Madurai,1731778.0,140927.0,1872705.0,245.1,Crores
+2020,Andhra Pradesh,Nellore,536782.0,57754.0,594536.0,95.58,Crores
+2017,Andhra Pradesh,Nellore,463500.0,32400.0,495900.0,87.63,Crores
+2018,Tamil Nadu,Madurai,1463847.0,76015.0,1539862.0,210.6,Crores
+2018,Kerala,Thiruvananthapuram,1031375.0,79222.0,1110597.0,166.49,Crores
+2019,Karnataka,Mangaluru,1089988.0,52031.0,1142019.0,150.3,Crores
+2018,Karnataka,Mysuru,1361452.0,93209.0,1454661.0,201.1,Crores
+2019,Andhra Pradesh,Visakhapatnam,1719536.0,102022.0,1821558.0,267.37,Crores
+2017,Kerala,Munnar,766978.0,80095.0,847073.0,119.1,Crores
+2020,Kerala,Kozhikode,581105.0,26390.0,607495.0,94.67,Crores
+2021,Andhra Pradesh,Kurnool,464675.0,22849.0,487524.0,88.91,Crores
+2018,Karnataka,Bengaluru,2930050.0,264159.0,3194209.0,493.48,Crores
+2020,Kerala,Thiruvananthapuram,1212982.0,56890.0,1269872.0,259.46,Crores
+2020,Andhra Pradesh,Tirupati,736100.0,38243.0,774343.0,153.7,Crores
+2022,Telangana,Karimnagar,704676.0,51199.0,755875.0,121.8,Crores
+2018,Tamil Nadu,Chennai,3615440.0,302540.0,3917980.0,527.47,Crores
+2022,Kerala,Alappuzha,756462.0,65685.0,822147.0,145.83,Crores
+2017,Kerala,Alappuzha,616123.0,38700.0,654823.0,117.79,Crores
+2019,Andhra Pradesh,Kurnool,439146.0,39629.0,478775.0,68.87,Crores
+2020,Tamil Nadu,Madurai,1547459.0,77787.0,1625246.0,243.49,Crores
+2022,Kerala,Kochi,2781395.0,254263.0,3035658.0,613.68,Crores
+2022,Kerala,Thiruvananthapuram,1243596.0,121827.0,1365423.0,187.35,Crores
+2018,Karnataka,Hampi,802885.0,45791.0,848676.0,151.72,Crores
+2019,Kerala,Munnar,901031.0,50329.0,951360.0,208.54,Crores
+2021,Telangana,Nizamabad,862392.0,65710.0,928102.0,170.77,Crores
+2021,Karnataka,Mangaluru,1178113.0,86122.0,1264235.0,271.72,Crores
+2020,Kerala,Alappuzha,668339.0,65609.0,733948.0,150.38,Crores
+2019,Tamil Nadu,Thanjavur,955782.0,68964.0,1024746.0,172.08,Crores
+2021,Tamil Nadu,Chennai,4378597.0,204034.0,4582631.0,604.87,Crores
+2017,Andhra Pradesh,Vijayawada,815106.0,68331.0,883437.0,162.59,Crores
+2021,Andhra Pradesh,Visakhapatnam,1983199.0,106162.0,2089361.0,277.73,Crores
+2018,Andhra Pradesh,Visakhapatnam,1752498.0,112734.0,1865232.0,397.66,Crores
+2017,Tamil Nadu,Chennai,3436512.0,160569.0,3597081.0,526.36,Crores
+2019,Telangana,Karimnagar,573353.0,58922.0,632275.0,136.58,Crores
+2017,Karnataka,Hampi,766381.0,35606.0,801987.0,123.65,Crores
+2022,Telangana,Hyderabad,2439801.0,141435.0,2581236.0,493.59,Crores
+2021,Telangana,Karimnagar,638866.0,57608.0,696474.0,144.46,Crores
+2021,Kerala,Alappuzha,700578.0,71080.0,771658.0,154.25,Crores
+2019,Kerala,Kozhikode,562766.0,44078.0,606844.0,91.49,Crores
+2017,Andhra Pradesh,Visakhapatnam,1542089.0,83114.0,1625203.0,342.92,Crores
+2022,Tamil Nadu,Chennai,4227688.0,256759.0,4484447.0,981.2,Crores
+2017,Karnataka,Coorg,647654.0,55812.0,703466.0,107.78,Crores
+2013,Kerala,Thiruvananthapuram,856548.0,44511.0,901059.0,153.42,Crores
+2016,Telangana,Nizamabad,730996.0,72342.0,803338.0,133.15,Crores
+2006,Tamil Nadu,Ooty,612778.0,40527.0,653305.0,127.83,Crores
+2016,Kerala,Kochi,1968897.0,93277.0,2062174.0,355.7,Crores
+2010,Karnataka,Mangaluru,790266.0,57598.0,847864.0,167.52,Crores
+2012,Telangana,Hyderabad,1495095.0,74651.0,1569746.0,222.27,Crores
+2007,Telangana,Nizamabad,461870.0,43194.0,505064.0,95.19,Crores
+2014,Kerala,Kozhikode,470707.0,24984.0,495691.0,97.05,Crores
+2007,Kerala,Thiruvananthapuram,684883.0,42302.0,727185.0,137.73,Crores
+2008,Telangana,Karimnagar,353191.0,27882.0,381073.0,75.95,Crores
+2012,Telangana,Karimnagar,461913.0,35016.0,496929.0,94.46,Crores
+2009,Karnataka,Coorg,459232.0,33190.0,492422.0,74.99,Crores
+2011,Kerala,Kozhikode,380241.0,21760.0,402001.0,69.04,Crores
+2013,Karnataka,Hampi,657680.0,45366.0,703046.0,120.66,Crores
+2014,Andhra Pradesh,Nellore,393607.0,21914.0,415521.0,84.48,Crores
+2016,Andhra Pradesh,Visakhapatnam,1543842.0,96642.0,1640484.0,308.35,Crores
+2016,Kerala,Kozhikode,468273.0,47303.0,515576.0,110.93,Crores
+2013,Andhra Pradesh,Kurnool,321709.0,27983.0,349692.0,63.42,Crores
+2016,Telangana,Warangal,834217.0,50725.0,884942.0,172.57,Crores
+2009,Andhra Pradesh,Kurnool,277102.0,29404.0,306506.0,55.72,Crores
+2011,Kerala,Kochi,1666326.0,150342.0,1816668.0,310.48,Crores
+2008,Andhra Pradesh,Nellore,326141.0,33543.0,359684.0,57.7,Crores
+2015,Tamil Nadu,Thanjavur,753049.0,70302.0,823351.0,109.52,Crores
+2007,Kerala,Munnar,544125.0,44122.0,588247.0,104.51,Crores
+2008,Kerala,Kozhikode,350668.0,23974.0,374642.0,58.6,Crores
+2014,Andhra Pradesh,Vijayawada,703383.0,57917.0,761300.0,156.65,Crores
+2015,Telangana,Khammam,410924.0,29126.0,440050.0,78.49,Crores
+2012,Karnataka,Hampi,640831.0,50504.0,691335.0,142.9,Crores
+2009,Andhra Pradesh,Tirupati,457620.0,40185.0,497805.0,72.01,Crores
+2006,Telangana,Nizamabad,437993.0,33866.0,471859.0,74.12,Crores
+2007,Tamil Nadu,Ooty,673158.0,46384.0,719542.0,134.49,Crores
+2011,Telangana,Warangal,734111.0,35192.0,769303.0,101.83,Crores
+2009,Karnataka,Mangaluru,743722.0,65382.0,809104.0,125.57,Crores
+2008,Andhra Pradesh,Visakhapatnam,1143290.0,111650.0,1254940.0,261.07,Crores
+2005,Telangana,Hyderabad,1118851.0,70082.0,1188933.0,243.24,Crores
+2008,Karnataka,Hampi,542415.0,34790.0,577205.0,95.04,Crores
+2013,Telangana,Nizamabad,595619.0,33023.0,628642.0,92.28,Crores
+2005,Karnataka,Mangaluru,581697.0,37222.0,618919.0,100.87,Crores
+2009,Kerala,Kochi,1476604.0,139184.0,1615788.0,212.15,Crores
+2005,Andhra Pradesh,Vijayawada,462578.0,26374.0,488952.0,106.23,Crores
+2011,Andhra Pradesh,Visakhapatnam,1235845.0,102498.0,1338343.0,183.35,Crores
+2014,Andhra Pradesh,Kurnool,348577.0,27537.0,376114.0,61.04,Crores
+2010,Telangana,Karimnagar,418918.0,44644.0,463562.0,101.4,Crores
+2006,Karnataka,Mangaluru,637093.0,46374.0,683467.0,90.41,Crores
+2010,Telangana,Khammam,346699.0,24080.0,370779.0,50.99,Crores
+2009,Tamil Nadu,Thanjavur,562297.0,60487.0,622784.0,127.82,Crores
+2006,Karnataka,Coorg,388253.0,30305.0,418558.0,88.6,Crores
+2008,Andhra Pradesh,Tirupati,434981.0,37951.0,472932.0,91.36,Crores
+2013,Andhra Pradesh,Visakhapatnam,0.0,120203.0,120203.0,297.83,Crores
+2007,Kerala,Alappuzha,380950.0,19448.0,400398.0,84.38,Crores
+2009,Tamil Nadu,Madurai,955880.0,63080.0,1018960.0,205.39,Crores
+2016,Telangana,Hyderabad,1769325.0,154689.0,1924014.0,291.37,Crores
+2006,Tamil Nadu,Thanjavur,531124.0,54529.0,585653.0,101.02,Crores
+2014,Telangana,Nizamabad,626691.0,58654.0,685345.0,120.1,Crores
+2014,Telangana,Hyderabad,1761512.0,124202.0,1885714.0,383.73,Crores
+2005,Tamil Nadu,Chennai,2068384.0,220896.0,2289280.0,448.42,Crores
+2012,Kerala,Kozhikode,405195.0,42047.0,447242.0,72.16,Crores
+2005,Telangana,Khammam,253978.0,24891.0,278869.0,53.99,Crores
+2016,Telangana,Khammam,459009.0,21043.0,480052.0,66.1,Crores
+2014,Kerala,Thiruvananthapuram,865403.0,77278.0,942681.0,187.05,Crores
+2013,Karnataka,Mysuru,1120509.0,104920.0,1225429.0,179.66,Crores
+2008,Andhra Pradesh,Vijayawada,550967.0,43106.0,594073.0,104.04,Crores
+2014,Karnataka,Mangaluru,880628.0,72898.0,953526.0,137.21,Crores
+2005,Kerala,Alappuzha,357414.0,18918.0,376332.0,65.69,Crores
+2005,Telangana,Karimnagar,342930.0,32645.0,375575.0,55.54,Crores
+2006,Karnataka,Hampi,454098.0,21362.0,475460.0,89.04,Crores
+2009,Telangana,Nizamabad,543678.0,56459.0,600137.0,88.59,Crores
+2008,Tamil Nadu,Madurai,913221.0,75339.0,988560.0,172.33,Crores
+2014,Tamil Nadu,Chennai,3301448.0,172608.0,3474056.0,576.02,Crores
+2008,Karnataka,Mysuru,853773.0,39277.0,893050.0,190.71,Crores
+2014,Andhra Pradesh,Tirupati,523242.0,50593.0,573835.0,85.01,Crores
+2013,Andhra Pradesh,Vijayawada,676866.0,52388.0,729254.0,100.51,Crores
+2012,Tamil Nadu,Chennai,2847073.0,204884.0,3051957.0,471.85,Crores
+2008,Karnataka,Coorg,451915.0,29645.0,481560.0,69.95,Crores
+2014,Kerala,Kochi,1982572.0,130756.0,2113328.0,428.77,Crores
+2015,Tamil Nadu,Madurai,1260276.0,100412.0,1360688.0,286.36,Crores
+2011,Telangana,Nizamabad,554236.0,54141.0,608377.0,133.15,Crores
+2012,Tamil Nadu,Thanjavur,659801.0,49013.0,708814.0,100.39,Crores
+2016,Tamil Nadu,Thanjavur,798027.0,66027.0,864054.0,161.49,Crores
+2006,Kerala,Kozhikode,301708.0,31080.0,332788.0,59.42,Crores
+2007,Karnataka,Hampi,506638.0,28540.0,535178.0,102.85,Crores
+2014,Tamil Nadu,Thanjavur,723429.0,68738.0,792167.0,116.32,Crores
+2011,Karnataka,Mysuru,956890.0,102970.0,1059860.0,0.0,Crores
+2011,Andhra Pradesh,Vijayawada,633141.0,69078.0,702219.0,135.41,Crores
+2016,Andhra Pradesh,Kurnool,351743.0,18208.0,369951.0,74.73,Crores
+2011,Tamil Nadu,Chennai,2825697.0,229718.0,3055415.0,513.86,Crores
+2013,Telangana,Hyderabad,1584814.0,172940.0,1757754.0,324.34,Crores
+2005,Andhra Pradesh,Nellore,279242.0,29298.0,308540.0,42.57,Crores
+2008,Telangana,Hyderabad,0.0,91973.0,91973.0,234.99,Crores
+2010,Karnataka,Mysuru,978513.0,65709.0,1044222.0,223.22,Crores
+2009,Telangana,Warangal,647485.0,68759.0,716244.0,118.0,Crores
+2007,Karnataka,Coorg,409329.0,43342.0,452671.0,64.45,Crores
+2009,Karnataka,Hampi,573470.0,53311.0,626781.0,112.75,Crores
+2015,Kerala,Kozhikode,466220.0,39509.0,505729.0,66.57,Crores
+2009,Kerala,Munnar,596825.0,54154.0,650979.0,112.41,Crores
+2015,Telangana,Hyderabad,1863527.0,185473.0,2049000.0,289.36,Crores
+2010,Andhra Pradesh,Visakhapatnam,1245932.0,120014.0,1365946.0,188.79,Crores
+2005,Andhra Pradesh,Visakhapatnam,984839.0,64271.0,1049110.0,185.49,Crores
+2010,Tamil Nadu,Thanjavur,598972.0,56177.0,655149.0,132.74,Crores
+2015,Karnataka,Mangaluru,983460.0,52405.0,1035865.0,171.7,Crores
+2012,Andhra Pradesh,Tirupati,479587.0,50466.0,530053.0,92.38,Crores
+2014,Tamil Nadu,Coimbatore,1569816.0,158956.0,1728772.0,351.87,Crores
+2014,Andhra Pradesh,Visakhapatnam,1511080.0,85799.0,1596879.0,217.15,Crores
+2015,Kerala,Kochi,2002282.0,160737.0,2163019.0,330.21,Crores
+2009,Telangana,Hyderabad,1334168.0,115824.0,1449992.0,248.3,Crores
+2016,Kerala,Alappuzha,577269.0,46976.0,624245.0,89.87,Crores
+2005,Karnataka,Bengaluru,1535365.0,99454.0,1634819.0,289.74,Crores
+2005,Telangana,Warangal,530717.0,33573.0,564290.0,100.92,Crores
+2011,Telangana,Karimnagar,404232.0,33801.0,438033.0,71.96,Crores
+2005,Tamil Nadu,Coimbatore,1011839.0,55794.0,1067633.0,153.78,Crores
+2010,Karnataka,Hampi,585616.0,30278.0,615894.0,130.1,Crores
+2008,Andhra Pradesh,Kurnool,258549.0,13214.0,271763.0,49.47,Crores
+2008,Telangana,Khammam,297607.0,25441.0,323048.0,44.48,Crores
+2012,Tamil Nadu,Madurai,1153973.0,126684.0,1280657.0,230.5,Crores
+2013,Karnataka,Bengaluru,2384301.0,116759.0,2501060.0,387.46,Crores
+2015,Andhra Pradesh,Nellore,424717.0,39442.0,464159.0,99.37,Crores
+2014,Telangana,Warangal,796630.0,55366.0,851996.0,146.24,Crores
+2008,Kerala,Munnar,579971.0,31379.0,611350.0,1079.9,Millions
+2011,Telangana,Khammam,371437.0,37046.0,408483.0,83.92,Crores
+2007,Andhra Pradesh,Vijayawada,525664.0,50301.0,575965.0,108.16,Crores
+2012,Andhra Pradesh,Nellore,364701.0,27295.0,391996.0,85.53,Crores
+2006,Andhra Pradesh,Kurnool,229386.0,15356.0,244742.0,52.59,Crores
+2009,Tamil Nadu,Ooty,695834.0,51166.0,747000.0,102.38,Crores
+2009,Telangana,Khammam,306310.0,27382.0,333692.0,45.52,Crores
+2008,Karnataka,Bengaluru,1917566.0,205189.0,2122755.0,450.74,Crores
+2015,Telangana,Karimnagar,493211.0,47932.0,541143.0,70.57,Crores
+2007,Telangana,Karimnagar,368643.0,32346.0,400989.0,72.64,Crores
+2011,Telangana,Hyderabad,1496861.0,108052.0,1604913.0,343.36,Crores
+2015,Kerala,Thiruvananthapuram,914528.0,51948.0,966476.0,204.66,Crores
+2016,Karnataka,Mysuru,1301608.0,71149.0,1372757.0,229.68,Crores
+2011,Kerala,Alappuzha,490768.0,36619.0,527387.0,97.99,Crores
+2016,Tamil Nadu,Madurai,1290872.0,69908.0,1360780.0,198.5,Crores
+2016,Kerala,Thiruvananthapuram,981288.0,48349.0,1029637.0,205.72,Crores
+2007,Tamil Nadu,Chennai,2405603.0,145711.0,2551314.0,364.94,Crores
+2011,Andhra Pradesh,Kurnool,311112.0,33207.0,344319.0,67.25,Crores
+2006,Telangana,Warangal,555065.0,60039.0,615104.0,133.24,Crores
+2010,Telangana,Hyderabad,1447250.0,71971.0,1519221.0,309.87,Crores
+2007,Kerala,Kozhikode,343349.0,29580.0,372929.0,59.86,Crores
+2012,Kerala,Kochi,1694826.0,91030.0,1785856.0,236.79,Crores
+2010,Karnataka,Coorg,473847.0,46778.0,520625.0,82.68,Crores
+2013,Andhra Pradesh,Tirupati,525663.0,43706.0,569369.0,112.22,Crores
+2014,Tamil Nadu,Madurai,1154337.0,64767.0,1219104.0,231.85,Crores
+2015,Karnataka,Mysuru,1157890.0,113915.0,1271805.0,178.0,Crores
+2016,Tamil Nadu,Coimbatore,1669104.0,124171.0,1793275.0,269.38,Crores
+2005,Kerala,Thiruvananthapuram,632319.0,68142.0,700461.0,142.02,Crores
+2010,Kerala,Kochi,1644714.0,115620.0,1760334.0,230.56,Crores
+2011,Tamil Nadu,Thanjavur,670354.0,55585.0,725939.0,157.24,Crores
+2005,Tamil Nadu,Madurai,757576.0,76743.0,834319.0,153.6,Crores
+2008,Tamil Nadu,Coimbatore,1194852.0,102785.0,1297637.0,261.52,Crores
+2007,Andhra Pradesh,Tirupati,381810.0,21192.0,403002.0,84.98,Crores
+2013,Kerala,KOCHI,1837721.0,189631.0,2027352.0,356.92,Crores
+2009,Karnataka,mysuru,868949.0,53236.0,922185.0,165.47,Crores
+2009,Kerala,Thiruvananthapuram,682546.0,32755.0,715301.0,95.61,Crores
+2006,Karnataka,Mysuru,800039.0,76094.0,876133.0,152.83,Crores
+2008,Telangana,Warangal,600444.0,50079.0,650523.0,86.35,Crores
+2007,Telangana,Khammam,0.0,19324.0,19324.0,46.13,Crores
+2014,Karnataka,Hampi,676125.0,53831.0,729956.0,98.3,Crores
+2005,Kerala,Munnar,468745.0,24069.0,492814.0,94.41,Crores
+2014,Karnataka,Mysuru,1094520.0,57423.0,1151943.0,213.06,Crores
+2009,Tamil Nadu,Chennai,2369562.0,188470.0,2558032.0,457.01,Crores
+2007,Tamil Nadu,Coimbatore,1090642.0,118953.0,1209595.0,183.6,Crores
+2007,Andhra Pradesh,Visakhapatnam,1035807.0,95488.0,1131295.0,238.41,Crores
+2007,Karnataka,Bengaluru,1812998.0,119387.0,1932385.0,283.65,Crores
+2011,Tamil Nadu,Madurai,980719.0,74007.0,1054726.0,142.46,Crores
+2006,Telangana,Hyderabad,1159888.0,91307.0,1251195.0,241.82,Crores
+2014,Tamil Nadu,Ooty,937599.0,76123.0,1013722.0,183.93,Crores
+2008,Kerala,Kochi,1447670.0,153235.0,1600905.0,308.4,Crores
+2012,Karnataka,Mangaluru,789034.0,69949.0,858983.0,151.89,Crores
+2010,Telangana,Nizamabad,569788.0,39502.0,609290.0,99.53,Crores
+2012,Telangana,Khammam,352984.0,20296.0,373280.0,49.9,Crores
+2008,Telangana,Nizamabad,465614.0,45848.0,511462.0,83.07,Crores
+2011,Karnataka,Mangaluru,836418.0,39985.0,876403.0,184.22,Crores
+2012,Telangana,Nizamabad,597830.0,33970.0,631800.0,101.79,Crores
+2016,Karnataka,Hampi,748491.0,36945.0,785436.0,155.12,Crores
+2006,Kerala,Kochi,1277087.0,91535.0,1368622.0,270.99,Crores
+2012,Telangana,Warangal,702065.0,38524.0,740589.0,105.53,Crores
+2009,Andhra Pradesh,Vijayawada,540304.0,46293.0,586597.0,102.82,Crores
+2015,Karnataka,Hampi,733417.0,40150.0,773567.0,116.52,Crores
+2014,Kerala,Munnar,721512.0,54584.0,776096.0,129.66,Crores
+2010,Telangana,Warangal,689592.0,34677.0,724269.0,99.69,Crores
+2007,Andhra Pradesh,Nellore,305248.0,13918.0,319166.0,44.41,Crores
+2006,Kerala,Munnar,481208.0,0.0,481208.0,107.84,Crores
+2008,Kerala,Thiruvananthapuram,690456.0,35431.0,725887.0,134.54,Crores
+2010,Tamil Nadu,Ooty,768800.0,74747.0,843547.0,131.07,Crores
+2013,Tamil Nadu,Chennai,2867767.0,180980.0,3048747.0,444.91,Crores
+2010,Kerala,Kozhikode,366168.0,32484.0,398652.0,78.82,Crores
+2011,Andhra Pradesh,Nellore,367391.0,20415.0,387806.0,82.21,Crores
+2006,Telangana,Khammam,282240.0,13645.0,295885.0,45.89,Crores
+2008,Kerala,Alappuzha,429423.0,40000.0,469423.0,90.47,Crores
+2006,Karnataka,Bengaluru,1591686.0,145417.0,1737103.0,344.76,Crores
+2012,Andhra Pradesh,Kurnool,312720.0,20754.0,333474.0,62.36,Crores
+2010,Andhra Pradesh,Nellore,328141.0,17816.0,345957.0,68.68,Crores
+2010,Kerala,Munnar,630472.0,67327.0,697799.0,126.73,Crores
+2006,Andhra Pradesh,Vijayawada,458206.0,27407.0,485613.0,81.8,Crores
+2016,Tamil Nadu,Chennai,3579695.0,241674.0,3821369.0,616.1,Crores
+2011,Tamil Nadu,Ooty,745615.0,39248.0,784863.0,147.89,Crores
+2009,Tamil Nadu,Coimbatore,1212185.0,111758.0,1323943.0,288.39,Crores
+2013,Telangana,Warangal,743719.0,38387.0,782106.0,112.43,Crores
+2007,Karnataka,Mangaluru,625435.0,48962.0,674397.0,101.42,Crores
+2010,Karnataka,Bengaluru,2105974.0,151251.0,2257225.0,369.01,Crores
+2007,Andhra Pradesh,Kurnool,256093.0,11608.0,267701.0,38.68,Crores
+2009,Kerala,Alappuzha,408588.0,31442.0,440030.0,75.95,Crores
+2010,Tamil Nadu,Coimbatore,1293208.0,81886.0,1375094.0,193.39,Crores
+2010,Tamil Nadu,Chennai,2560133.0,255800.0,2815933.0,371.97,Crores
+2012,Tamil Nadu,Ooty,842873.0,89689.0,932562.0,192.54,Crores
+2013,Kerala,Kozhikode,411857.0,27300.0,439157.0,61.82,Crores
+2015,Andhra Pradesh,Kurnool,375423.0,27895.0,403318.0,56.54,Crores
+2012,Kerala,Thiruvananthapuram,841515.0,71798.0,913313.0,176.6,Crores
+2007,Karnataka,Mysuru,784203.0,65408.0,849611.0,162.26,Crores
+2012,Karnataka,Coorg,520348.0,42388.0,562736.0,117.55,Crores
+2011,Karnataka,Coorg,498056.0,53792.0,551848.0,97.72,Crores
+2005,Kerala,Kozhikode,283237.0,29486.0,312723.0,47.94,Crores
+2013,Telangana,Khammam,364625.0,28839.0,393464.0,65.68,Crores
+2011,Andhra Pradesh,Tirupati,481307.0,31342.0,512649.0,104.19,Crores
+2011,Karnataka,Bengaluru,2047198.0,130143.0,2177341.0,453.27,Crores
+2013,Tamil Nadu,Coimbatore,1351911.0,71436.0,1423347.0,244.06,Crores
+2013,Karnataka,Coorg,556446.0,26366.0,582812.0,89.01,Crores
+2007,Tamil Nadu,Thanjavur,554761.0,44283.0,599044.0,82.74,Crores
+2014,Telangana,Khammam,403342.0,41915.0,445257.0,82.9,Crores
+2013,Tamil Nadu,Thanjavur,721963.0,36325.0,758288.0,158.2,Crores
+2007,Tamil Nadu,Madurai,891665.0,84267.0,975932.0,147.74,Crores
+2011,Tamil Nadu,Coimbatore,1365761.0,71330.0,1437091.0,250.54,Crores
+2012,Kerala,Alappuzha,481126.0,40099.0,521225.0,86.16,Crores
+2014,Kerala,Alappuzha,525291.0,55375.0,580666.0,118.89,Crores
+2005,Karnataka,Coorg,380649.0,31786.0,412435.0,55.34,Crores
+2006,Kerala,Alappuzha,382222.0,38850.0,421072.0,85.2,Crores
+2005,Kerala,Kochi,1276260.0,71577.0,1347837.0,183.11,Crores
+2012,Karnataka,Mysuru,1055564.0,89911.0,1145475.0,185.84,Crores
+2016,Telangana,Karimnagar,536409.0,31285.0,567694.0,88.78,Crores
+2006,Telangana,Karimnagar,329838.0,15633.0,345471.0,63.86,Crores
+2005,Andhra Pradesh,Kurnool,221609.0,10623.0,232232.0,36.99,Crores
+2012,Tamil Nadu,Coimbatore,1288416.0,130396.0,1418812.0,288.25,Crores
+2010,Kerala,Thiruvananthapuram,784082.0,39936.0,824018.0,130.8,Crores
+2006,Kerala,Thiruvananthapuram,606594.0,30331.0,636925.0,99.41,Crores
+2011,Karnataka,Hampi,595804.0,65265.0,661069.0,9033.0,Lakhs
+2010,Tamil Nadu,Madurai,1020481.0,87640.0,1108121.0,231.57,Crores
+2009,Telangana,Karimnagar,366409.0,18888.0,385297.0,50.72,Crores
+2013,Kerala,Munnar,685280.0,41638.0,726918.0,112.11,Crores
+2007,Kerala,Kochi,1349709.0,70692.0,1420401.0,302.86,Crores
+2016,Andhra Pradesh,Vijayawada,738336.0,34443.0,772779.0,111.32,Crores
+2015,Tamil Nadu,Chennai,3111309.0,330075.0,3441384.0,641.8,Crores
+2016,Andhra Pradesh,Tirupati,612687.0,53812.0,666499.0,88.27,Crores
+2005,Andhra Pradesh,Tirupati,380149.0,40321.0,420470.0,88.52,Crores
+2009,Kerala,Kozhikode,343725.0,25160.0,368885.0,61.19,Crores
+2013,Kerala,Alappuzha,504417.0,23356.0,527773.0,83.91,Crores
+2011,Kerala,Thiruvananthapuram,793316.0,65829.0,859145.0,181.37,Crores
+2014,Karnataka,Coorg,553643.0,29751.0,583394.0,79.17,Crores
+2010,Kerala,Alappuzha,455722.0,33791.0,489513.0,76.55,Crores
+2009,Andhra Pradesh,Visakhapatnam,1167987.0,100775.0,1268762.0,170.11,Crores
+2008,Tamil Nadu,Ooty,659659.0,60661.0,720320.0,111.84,Crores
+2008,Karnataka,Mangaluru,687849.0,74172.0,762021.0,165.15,Crores
+2013,Karnataka,Mangaluru,834480.0,57646.0,892126.0,154.88,Crores
+2006,Tamil Nadu,Coimbatore,1027251.0,53963.0,1081214.0,224.55,Crores
+2015,Andhra Pradesh,Visakhapatnam,1567158.0,165472.0,1732630.0,313.37,Crores
+2005,Karnataka,Hampi,453596.0,43561.0,497157.0,73.56,Crores
+2015,Andhra Pradesh,Tirupati,547664.0,45159.0,592823.0,109.44,Crores
+2006,Tamil Nadu,Madurai,848369.0,56423.0,904792.0,122.8,Crores
+2005,Tamil Nadu,Thanjavur,519946.0,30573.0,550519.0,80.58,Crores
+2010,Andhra Pradesh,Tirupati,455377.0,46767.0,502144.0,81.14,Crores
+2005,Telangana,Nizamabad,413385.0,40157.0,453542.0,62.0,Crores
+2012,Karnataka,Bengaluru,2290275.0,193302.0,2483577.0,373.97,Crores
+2007,Telangana,Hyderabad,1245598.0,112070.0,1357668.0,256.16,Crores
+2005,Tamil Nadu,Ooty,614981.0,28496.0,643477.0,139.82,Crores
+2006,Andhra Pradesh,Tirupati,399235.0,40301.0,439536.0,57.41,Crores
+2012,Andhra Pradesh,Vijayawada,635167.0,64185.0,699352.0,150.68,Crores
+2016,Karnataka,Bengaluru,2438738.0,214925.0,2653663.0,387.5,Crores
+2016,Andhra Pradesh,Nellore,432963.0,25986.0,458949.0,87.42,Crores
+2008,Tamil Nadu,Chennai,2322826.0,251435.0,2574261.0,425.73,Crores
+2012,Kerala,Munnar,630714.0,33972.0,664686.0,87.28,Crores
+2008,Tamil Nadu,Thanjavur,538012.0,46783.0,584795.0,85.34,Crores
+2016,Karnataka,Coorg,595216.0,61529.0,656745.0,97.5,Crores
+2006,Andhra Pradesh,Nellore,288791.0,20830.0,309621.0,46.44,Crores
+2014,Telangana,Karimnagar,466022.0,48220.0,514242.0,84.62,Crores
+2015,Karnataka,Coorg,605867.0,55620.0,661487.0,124.16,Crores
+2015,Kerala,Munnar,752884.0,53496.0,806380.0,138.36,Crores
+2015,Andhra Pradesh,Vijayawada,731223.0,76750.0,807973.0,156.47,Crores
+2013,Tamil Nadu,Ooty,872755.0,41504.0,914259.0,184.63,Crores
+2013,Tamil Nadu,Madurai,1097588.0,75379.0,1172967.0,205.63,Crores
+2006,Tamil Nadu,Chennai,2254806.0,214505.0,2469311.0,337.47,Crores
+2010,Andhra Pradesh,Vijayawada,572859.0,27921.0,600780.0,107.81,Crores
+2005,Karnataka,Mysuru,753793.0,48189.0,801982.0,148.42,Crores
+2015,Karnataka,Bengaluru,2499326.0,236335.0,2735661.0,571.5,Crores
+2015,Kerala,Alappuzha,589076.0,0.0,589076.0,113.58,Crores
+2009,Karnataka,Bengaluru,1948018.0,139442.0,2087460.0,303.93,Crores
+2010,Andhra Pradesh,Kurnool,290687.0,14991.0,305678.0,42.05,Crores
+2012,Andhra Pradesh,Visakhapatnam,1316799.0,126330.0,1443129.0,239.11,Crores
+2016,Kerala,Munnar,774603.0,61259.0,835862.0,141.82,Crores
+2014,Karnataka,Bengaluru,2321623.0,168673.0,2490296.0,437.51,Crores
+2015,Tamil Nadu,Ooty,964050.0,52886.0,1016936.0,160.73,Crores
+2015,Telangana,Nizamabad,678231.0,48110.0,726341.0,98.0,Crores
+2015,Tamil Nadu,Coimbatore,1522203.0,82279.0,1604482.0,323.24,Crores
+2016,Karnataka,Mangaluru,937598.0,102945.0,1040543.0,182.3,Crores
+2006,Andhra Pradesh,Visakhapatnam,1046712.0,108068.0,1154780.0,183.17,Crores
+2009,Andhra Pradesh,Nellore,312174.0,0.0,312174.0,44.91,Crores
+2011,Kerala,Munnar,590988.0,37387.0,628375.0,135.44,Crores
+2007,Telangana,Warangal,570181.0,52052.0,622233.0,94.18,Crores
+2016,Tamil Nadu,Ooty,973521.0,70317.0,1043838.0,221.64,Crores
+2013,Andhra Pradesh,Nellore,389280.0,20745.0,410025.0,63.78,Crores
+2013,Telangana,Karimnagar,448878.0,25258.0,474136.0,99.9,Crores
+2015,Telangana,Warangal,880953.0,89454.0,970407.0,171.47,Crores
